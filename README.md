@@ -15,7 +15,7 @@ Uncovering two tiles disable for few millisecs the entire game, in order for the
 
 As usual, you can git clone this repository, navigate to the clone folder, and simply run `cargo build` to build the executable, followed by `cargo run` to run the game and test the RAM of your brain !
 
-If you do not have Rust installed on your system, please refer to the official documentation, according to your OS on <a href="https://www.rust-lang.org/tools/install">this page</a>
+If you do not have Rust installed on your system, please refer to the official documentation, by following the <a href="https://www.rust-lang.org/learn/get-started">Rust Getting Started Guide</a>
 
 This little GUI Game is intended to work on any platform you're using, whether \*NIX flavored or Windows.
 
