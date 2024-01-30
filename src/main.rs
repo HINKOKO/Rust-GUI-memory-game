@@ -140,12 +140,6 @@ slint::slint! {
                 }
             }
         }
-        // MemoryTile {
-        //     icon: @image-url("icons/icons/bus.png");
-        //     clicked => {
-        //         // self refers to current element
-        //         self.open_curtain = !self.open_curtain;
-        //     }
-        // }
+
     }
 }
